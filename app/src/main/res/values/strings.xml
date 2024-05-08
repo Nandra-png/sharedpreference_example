@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">loginui</string>
+    <string name="pengguna">By continuing, you agree to Rendraap’s <font color='#007DFF'>Terms of Service</font> and acknowledge that you’ve read our <font color='#007DFF'>Privacy Policy.Notice at Collection</font></string>
+    <array name="my_spinner_entries">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </array>
+</resources>

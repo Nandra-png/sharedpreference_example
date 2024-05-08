@@ -1,0 +1,16 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- State saat tombol diklik -->
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#0A53B0" /> <!-- Warna gelap saat diklik -->
+            <corners android:radius="70dp" /> <!-- Sudut tombol -->
+        </shape>
+    </item>
+    <!-- State default atau saat tidak diklik -->
+    <item>
+        <shape>
+            <solid android:color="#1878F3" /> <!-- Warna default -->
+            <corners android:radius="70dp" /> <!-- Sudut tombol -->
+        </shape>
+    </item>
+</selector>
